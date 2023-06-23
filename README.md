@@ -4,14 +4,14 @@
 
 ## Настройка GIT
 
--
-```	
+
+- ```	
 git version
 ```
 вывести текущую версию Git
 
--
-```	
+
+- ```	
 cat ~/.gitconfig  
 git config –-list
 ```
