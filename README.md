@@ -52,9 +52,9 @@ git status --ignored
 ```
 - отобразить все игнорируемые файлы. В таком случае в выводе git status появится раздел Ignored files
 
-<p align="right">(<a href="#readme-top">Вернуться к содержанию</a>)</p>
+<p align="right"><a href="#readme-top">Вернуться к содержанию</a></p>
 
-<p align="right">(<a href="#содержание">Вернуться к содержанию</a>)</p>
+<p align="right"><a href="#содержание">Вернуться к содержанию</a></p>
 
 ## Командная строка
 
