@@ -54,7 +54,7 @@ git status --ignored
 
 <p align="right"><a href="#readme-top">Вернуться к содержанию</a></p>
 
-<p align="right"><a href="#содержание">Вернуться к содержанию</a></p>
+<p align="right"><a href="(#содержание)">Вернуться к содержанию</a></p>
 
 ## Командная строка
 
